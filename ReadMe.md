@@ -1,6 +1,6 @@
 ## A Q&Asysrtem based on RAG (基于RAG的问答系统)
 
-Author：Await Li, KarlJx15, 
+Author：Await Li, KarlJx15, Electron-Neutrino
 
 基于通义千问大语言模型，搭建了RAG(检索增强生成)问答系统。
 
